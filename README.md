@@ -1,4 +1,4 @@
-# 🌍 TerraShift — Climate-Smart Crop Intelligence
+#  TerraShift — Climate-Smart Crop Intelligence
 
 > *Turning NASA satellite data into ground-level decisions for the farmers who feed the world.*
 
